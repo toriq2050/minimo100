@@ -1,0 +1,253 @@
+header{
+    max-width: 90%;
+    margin: 0 auto;
+    margin-top: 40px;
+    overflow: hidden;
+  
+}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+.menu{
+    width: 80%;
+    float: right;
+    text-align: right;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #626262;
+    
+    margin-left: 130px;
+    font-size: 15px;
+
+}
+
+.banner{
+    max-width: 90%;
+    margin:0 auto;
+}
+.banner img{
+    width: 100%;
+    margin-top: 50px;
+
+}
+
+.about{
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    overflow: hidden;
+}
+
+
+
+.about h1{
+    color: #626262;
+    font-weight: 200;
+    font-size: 20px;
+
+}
+
+.about p{
+    color: #626262;
+    font-size: 15px;
+ 
+
+}
+
+.about h5{
+    color: #626262;
+    font-weight: 200;
+    font-size: 15px;
+    margin-top: 60px ;
+    text-transform: uppercase;
+}
+
+
+
+.about h3{
+    color: #b4ad9e;
+    font-weight: 200;
+    font-size: 15px;
+    margin-top: 60px ;
+    text-transform: uppercase;
+}
+
+
+
+.lifestyle{
+max-width:  80%;
+margin: 0 auto;
+margin-top: 70px;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+
+
+}
+.item{
+   width: 47%; 
+}
+.item img{
+width: 100%;
+}
+.item a{
+color: #626266;
+font-size: 10px;
+font-weight: 200;
+text-decoration: none;
+margin: 10px 0;
+display: block;
+text-transform: uppercase;
+}
+.item h1{
+
+color: #626266;
+font-size: 31px;
+font-weight: 400;
+}
+.item h5{
+    font-size: 16px;
+    color: #626262;
+}
+.signup{
+background-color:#f0f0f0;
+height: 300px;
+display: flex;
+justify-content: center;
+text-align: center;
+
+}
+
+
+.signup_contant{
+width: 335px;
+}
+.signup_contant h1{   
+ color: #626266;
+font-size: 31px;
+font-weight: 400;
+margin-top: 100px;
+margin-bottom: 80px;
+}
+.signup_contant input{
+    border: none;
+    background: none;
+    border-bottom: 1px solid;
+    width: 100%;
+    padding: 5px 0px 10px 0px;
+    font-size: 15px;
+}
+.signup_contant input:focus{
+    outline: none;
+}
+
+.lifestyle_two{
+    max-width:  80%;
+margin: 0 auto;
+margin-top: 70px;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+
+}
+.abouts{
+    width: 47%;
+
+}
+.abouts img{
+    width: 100%;
+
+}
+.abouts a{
+    color: #626266;
+    font-size: 15px;
+    font-weight: 200;
+    text-decoration: none;
+    margin: 10px 0;
+    display: block;
+    text-transform: uppercase;
+
+}
+.abouts h1{
+    color: #626266;
+    font-size: 31px;
+    font-weight: 400;
+
+}
+.abouts p{
+    font-size: 16px;
+    color: #626262;
+}
+
+.load{
+    width: 90%;
+    margin-top: 200px;
+    margin-bottom: 150px;
+
+
+}
+
+.button{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.button button{
+padding: 20px 30px;
+background-color: transparent;
+border: none;
+border: 1px solid;
+color: black;
+font-size: 15px;
+font-weight: 400;
+}
+footer{
+background-color: #f0f0f0;
+padding: 30px 0px;
+}
+.footer_wrapper{
+width: 80%;
+overflow: hidden;
+display: flex;
+justify-content: space-between;
+}
+.term{
+width: 30%;
+
+}
+.term ul{
+list-style: none;
+display: flex
+}
+.term ul li{
+margin-right: 15px;
+}
+.term ul li a{
+text-decoration: none;
+color: #030303;
+text-transform: capitalize;
+
+}
+.socila_icon{
+width: 30%;
+
+}
+.socila_icon ul{
+list-style: none;
+display: flex;
+justify-content: end;
+}
+.socila_icon ul li{
+    margin-left: 15px;
+}
+.socila_icon ul li a{
+    text-decoration: none;
+    color: #000000;
+    text-transform: capitalize;
+    
+}
